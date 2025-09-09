@@ -15,6 +15,7 @@ A collection of LeetCode questions's solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions's solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
