@@ -6,6 +6,7 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 ## Prefix Sum
