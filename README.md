@@ -9,6 +9,7 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 | [0134-gas-station](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,20 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
