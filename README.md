@@ -1,4 +1,4 @@
-A collection of LeetCode questions' solutions to ace the coding interview! I will be uploading more questions as I will solve more. -
+A collection of LeetCode questions' solutions to ace the coding interview! I will be uploading more solutions in the future as I will solve more. -
 
 <!---LeetCode Topics-->
 # LeetCode Topics
