@@ -9,6 +9,7 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 | [0134-gas-station](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions' solutions to ace the coding interview! -
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/farheenimam/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
