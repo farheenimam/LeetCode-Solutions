@@ -10,10 +10,10 @@ class Solution(object):
             return s
 
         seq = [s[i] for i in range(numRows)]   
-        print(seq) 
+  
         index , d = numRows - 1, 1
         s = s[numRows: len(s)]
-        print(s)
+    
         for char in s:
             if index == 0:
                 d = 1
@@ -22,8 +22,6 @@ class Solution(object):
             index += d
             seq[index]+= char
         print(seq)
-        # for i in range(numRows):
-        #     seq[i] = ''.join(seq[i])
 
         return ''.join(seq)    
         
