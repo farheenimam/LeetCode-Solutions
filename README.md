@@ -1,4 +1,65 @@
-A collection of LeetCode questions' solutions to ace the coding interview! I will be uploading more solutions in the future as I will solve more. -
+# LeetCode Solutions
+
+A collection of my solutions to **LeetCode problems** 🧑‍💻.
+This repository is aimed at **acing coding interviews** by practicing problems from different topics and difficulty levels.
+
+I regularly solve new questions and push updates, so the repo will keep growing over time 🚀.
+
+---
+
+## 📂 Repository Structure
+
+The solutions are organized by **topics**, making it easier to focus on specific areas during interview preparation.
+
+Some of the covered topics include:
+
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Linked List
+* Binary Trees
+* Dynamic Programming
+* Graphs
+* Greedy Algorithms
+
+*(and more coming soon!)*
+
+---
+
+## 💻 Languages Used
+
+* Python 🐍
+* Java ☕
+* C++ 💡
+
+*(I may add solutions in other languages too as I practice more.)*
+
+---
+
+## 🚀 Goals
+
+* Solve at least a few problems daily to stay consistent.
+* Cover a wide range of **easy, medium, and hard** problems.
+* Build a strong foundation for **technical interviews**.
+
+---
+
+## 📌 How to Use
+
+1. Browse through the folders/topics.
+2. Open the question file to view my solution.
+3. Run the code in your preferred IDE/LeetCode environment.
+4. Practice, tweak, and learn!
+
+---
+
+## ⭐ Contribute / Support
+
+* If you find this repo helpful, don’t forget to **star ⭐ the repo**!
+* You can also **fork** it to keep your own notes and solutions.
+* Suggestions are welcome through issues or pull requests.
 
 <!---LeetCode Topics-->
 # LeetCode Topics
