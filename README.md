@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-A collection of my solutions to **LeetCode problems** 🧑‍💻.
+A collection of my solutions to **LeetCode problems**.
 This repository is aimed at **acing coding interviews** by practicing problems from different topics and difficulty levels.
 
-I regularly solve new questions and push updates, so the repo will keep growing over time 🚀.
+I regularly solve new questions and push updates, so the repo will keep growing over time.
 
 ---
 
